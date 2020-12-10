@@ -1,5 +1,5 @@
 # DDoS-Script
-PICAM NETU COAIE CPLM.
+PICAM NETU 
 --------------------------
 git clone https://github.com/XERO856/DDoS-Script;
 cd DDoS-Script;
